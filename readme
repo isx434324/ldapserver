@@ -1,0 +1,8 @@
+#ldapserver:base Dockerfile
+# Tania ASIX-M11 Curs 2017-2018
+
+
+Creacio de un servidor ldapserver base per treballar interactivament
+Cal executar el servei manualment
+
+
